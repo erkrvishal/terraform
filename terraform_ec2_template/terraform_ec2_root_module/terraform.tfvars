@@ -1,0 +1,1 @@
+instance_type = "" # Instance type based on requirement
